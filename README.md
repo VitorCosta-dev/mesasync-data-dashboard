@@ -2,7 +2,7 @@
 
 Projeto de portfólio desenvolvido para transformar dados operacionais de um restaurante em indicadores que apoiam a tomada de decisão.
 
-![Dashboard Visão Geral](./images/dashboard-visao-geral.png)
+![Dashboard Visão Geral](./dashboard-visao-geral.png)
 
 ## Objetivo
 
