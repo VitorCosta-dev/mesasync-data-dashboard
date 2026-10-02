@@ -4,7 +4,7 @@ Dashboard desenvolvido em **Power BI**, com dados demonstrativos de um restauran
 
 O projeto integra **PostgreSQL, SQL, Power Query e DAX**, com uma apresentação personalizada nas cores do MesaSync: azul escuro e laranja.
 
-![Visão geral do dashboard MesaSync](./dashboard-visao-geral.png)
+![Visão geral do dashboard MesaSync](./dashboard-visao-geral.png.jpeg)
 
 > Os dados são fictícios e foram criados para fins de estudo e portfólio. Não representam resultados de um restaurante real.
 
